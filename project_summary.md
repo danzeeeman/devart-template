@@ -9,7 +9,7 @@
 
 ![15](project_images/four.png)
 
-Is an explorations in movement, image processing, and gif encoding.  The installations allows participates to record a 3 second image sequence that is then played back on a large projection area.  A GIF of the interaction is also exported to some data store/webby site TBD. 
+Is an explorations in movement, image processing, and gif encoding.  The installations allows participates to record a 3 second image sequence that is then played back on a large projection area.  The sequences are Looped and played back at different rates. A GIF of the users movements are saved for export. 
 
 [_Make It Do A Thing: HANDS_](http://makeitdoathing.com/index.php/gifs/hands/)
 
@@ -30,6 +30,11 @@ Using the exported GIFs from HANDS and I created two Android apps currently on t
 [Android Home App](https://play.google.com/store/apps/details?id=com.hand.fullscreen.home)
 
 [Android App](https://play.google.com/store/apps/details?id=com.hand.fullscreen)
+
+
+
+A Gallery exhibition of this work would involve a capture booth, a projection area, an exhibition area show selected captures on Android Tablets and Smart Watches.  These devices would no longer function as smart devices but exsits purely as peices of Art.  
+
 
 
 ## Links to External Libraries
@@ -66,6 +71,7 @@ Using the exported GIFs from HANDS and I created two Android apps currently on t
 ![11](project_images/2014-03-01-18-47-19-798_upload.gif)
 ![12](project_images/2014-03-01-18-46-00-409_upload.gif)
 ![13](project_images/2014-03-01-18-46-10-394_upload.gif)
+
 
 
 
