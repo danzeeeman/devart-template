@@ -11,21 +11,23 @@
 
 Is an explorations in movement, image processing, and gif encoding.  The installations allows participates to record a 3 second image sequence that is then played back on a large projection area.  The sequences are Looped and played back at different rates. A GIF of the users movements are saved for export. 
 
-[_Make It Do A Thing: HANDS_](http://makeitdoathing.com/index.php/gifs/hands/)
+[Make It Do A Thing: HANDS](http://makeitdoathing.com/index.php/gifs/hands/)
 
 ###FULLSCREEN 
 
-![14](https://lh6.ggpht.com/sWhww2Fco5ngGlFSrW6tx-FgOlc-lHdQRFIH2D9tiDYracnR04mbEdzt7kaxcLqUN4M=h310-rw)
+![14](project_images/hands.png)
 
-An Android app framework for turning any android device into a piece of Art.  The codebase is specifically designed to takeover the functionality of the home button and disallow the user to close or exit the app.  When paired with a Samsung Galaxy Gear (gen 1) the device becomes a wearable piece of Art.
+An Android app framework for turning any android device into a piece of Art.  The codebase is specifically designed to render an HTML Site, Video, or GIF and takeover the functionality of the home button.  The app also disallows the user to close or exit the app.  When paired with a Samsung Galaxy Gear Smart Watch the device becomes a wearable piece of Art.
+
+![16](http://makeitdoathing.com/files/gimgs/67_fullscreen-3watches1.jpg)
 
 
 FULLSCREEN was developed for Aram Bartholl's FULLSCREEN Group show at XPO Gallery
 
-[_Make It Do A Thing: FULLSCREEN_](http://makeitdoathing.com/index.php/opensource/fullscreen/)
+[Make It Do A Thing: FULLSCREEN](http://makeitdoathing.com/index.php/opensource/fullscreen/)
 
 
-Using the exported GIFs from HANDS and I created two Android apps currently on the Play Store.  
+Using the exported GIFs from HANDS and The Android App framework from FULLSCREEN I created two Android apps currently on the Play Store.  
 
 [Android Home App](https://play.google.com/store/apps/details?id=com.hand.fullscreen.home)
 
