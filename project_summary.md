@@ -13,6 +13,8 @@ is an explorations in movement, image processing, and gif encoding.  The install
 ###FULLSCREEN 
 is an Android app framework for turning any Android device into a piece of Art.  The codebase is specifically designed to takeover the functionality of the home button and disallow the user to close or exit the app.  When paired with a Samsung Galaxy Gear (gen 1) the device becomes a wearable piece of Art.
 
+FULLSCREEN was developed for Aram Bartholl's FULLSCREEN Group show at XPO Gallery
+
 [_Make It Do A Thing: FULLSCREEN_](http://makeitdoathing.com/index.php/opensource/fullscreen/)
 
 
