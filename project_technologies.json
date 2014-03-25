@@ -1,0 +1,18 @@
+{
+    "technologies": {
+        "apis": [
+            "none"
+        ],
+        "platforms": [
+            "osx", "windows", "linux", "armlinux", "android"
+        ],
+        "toolkits": [
+            "openFrameworks", "Android"
+        ]
+    },
+    "themes": [
+        "movement",
+        "encoding",
+        "image processing"
+    ]
+}

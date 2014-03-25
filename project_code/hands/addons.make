@@ -1,0 +1,10 @@
+ofxQuadWarp
+ofxOpenCv
+ofxCv
+ofxSimpleTimer
+ofxImageSequence
+ofxImageSequenceRecorder
+ofxGifEncoder
+ofxUI
+ofxXmlSettings
+ofxWatchDog

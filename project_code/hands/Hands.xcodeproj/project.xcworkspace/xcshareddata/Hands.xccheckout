@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A995DFB1-3C16-49F4-B666-1BC7D9C3FFF5</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Hands</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FCFB4FF6-AD1F-42A0-8376-E660BD41CF23</key>
+		<string>https://github.com/danthemellowman/devart-template.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>project_code/hands/Hands.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FCFB4FF6-AD1F-42A0-8376-E660BD41CF23</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/danthemellowman/devart-template.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FCFB4FF6-AD1F-42A0-8376-E660BD41CF23</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FCFB4FF6-AD1F-42A0-8376-E660BD41CF23</string>
+			<key>IDESourceControlWCCName</key>
+			<string>devart-template</string>
+		</dict>
+	</array>
+</dict>
+</plist>

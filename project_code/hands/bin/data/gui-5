@@ -1,0 +1,28 @@
+<Canvas>
+    <Kind>40</Kind>
+    <Name>OFX_UI_WIDGET_CANVAS</Name>
+    <IsMinified>0</IsMinified>
+    <XPosition>631.000000000</XPosition>
+    <YPosition>341.000000000</YPosition>
+</Canvas>
+<Widget>
+    <Kind>11</Kind>
+    <Name>5</Name>
+    <XValue>422.463043213</XValue>
+    <YValue>560.394104004</YValue>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>alpha5</Name>
+    <Value>255.000000000</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>scale5</Name>
+    <Value>1.000000000</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>rotate5</Name>
+    <Value>65.615760803</Value>
+</Widget>
