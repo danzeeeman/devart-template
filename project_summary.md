@@ -6,19 +6,26 @@
 
 ## Description
 ###HANDS 
-is an explorations in movement, image processing, and gif encoding.  The installations allows participates to record a 3 second image sequence that is then played back on a large projection area.  A GIF of the interaction is also exported.
+
+[15]
+
+Is an explorations in movement, image processing, and gif encoding.  The installations allows participates to record a 3 second image sequence that is then played back on a large projection area.  A GIF of the interaction is also exported to some data store/webby site TBD. 
 
 [_Make It Do A Thing: HANDS_](http://makeitdoathing.com/index.php/gifs/hands/)
 
 ###FULLSCREEN 
-is an Android app framework for turning any Android device into a piece of Art.  The codebase is specifically designed to takeover the functionality of the home button and disallow the user to close or exit the app.  When paired with a Samsung Galaxy Gear (gen 1) the device becomes a wearable piece of Art.
+
+[14]
+
+An Android app framework for turning any android device into a piece of Art.  The codebase is specifically designed to takeover the functionality of the home button and disallow the user to close or exit the app.  When paired with a Samsung Galaxy Gear (gen 1) the device becomes a wearable piece of Art.
+
 
 FULLSCREEN was developed for Aram Bartholl's FULLSCREEN Group show at XPO Gallery
 
 [_Make It Do A Thing: FULLSCREEN_](http://makeitdoathing.com/index.php/opensource/fullscreen/)
 
 
-Using the exported GIFs from HANDS and the code base of FULLSCREEN I created two Android apps currently on the Play Store. 
+Using the exported GIFs from HANDS and I created two Android apps currently on the Play Store.  
 
 [Android Home App](https://play.google.com/store/apps/details?id=com.hand.fullscreen.home)
 
@@ -59,6 +66,6 @@ Using the exported GIFs from HANDS and the code base of FULLSCREEN I created two
 ![11](project_images/2014-03-01-18-47-19-798_upload.gif)
 ![12](project_images/2014-03-01-18-46-00-409_upload.gif)
 ![13](project_images/2014-03-01-18-46-10-394_upload.gif)
-
-
+![14](https://lh6.ggpht.com/sWhww2Fco5ngGlFSrW6tx-FgOlc-lHdQRFIH2D9tiDYracnR04mbEdzt7kaxcLqUN4M=h310-rw)
+![15](project_images/four.png)
 
