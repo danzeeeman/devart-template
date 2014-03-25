@@ -4,10 +4,15 @@
             "none"
         ],
         "platforms": [
-            "osx", "windows", "linux", "armlinux", "android"
+            "osx", 
+            "windows", 
+            "linux", 
+            "armlinux", 
+            "android"
         ],
         "toolkits": [
-            "openFrameworks", "Android"
+            "openFrameworks", 
+            "android"
         ]
     },
     "themes": [
