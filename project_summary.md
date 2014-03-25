@@ -7,19 +7,13 @@
 ## Description
 ###HANDS 
 
-![15](project_images/four.png)
-
 Is an explorations in movement, image processing, and gif encoding.  The installations allows participates to record a 3 second image sequence that is then played back on a large projection area.  The sequences are Looped and played back at different rates. A GIF of the users movements are saved for export. 
 
 [Make It Do A Thing: HANDS](http://makeitdoathing.com/index.php/gifs/hands/)
 
 ###FULLSCREEN 
 
-![14](project_images/hands.png)
-
 An Android app framework for turning any android device into a piece of Art.  The codebase is specifically designed to render an HTML Site, Video, or GIF and takeover the functionality of the home button.  The app also disallows the user to close or exit the app.  When paired with a Samsung Galaxy Gear Smart Watch the device becomes a wearable piece of Art.
-
-![16](http://makeitdoathing.com/files/gimgs/67_fullscreen-3watches1.jpg)
 
 
 FULLSCREEN was developed for Aram Bartholl's FULLSCREEN Group show at XPO Gallery
@@ -34,9 +28,7 @@ Using the exported GIFs from HANDS and The Android App framework from FULLSCREEN
 [Android App](https://play.google.com/store/apps/details?id=com.hand.fullscreen)
 
 
-
 A Gallery exhibition of this work would involve a capture booth, a projection area, an exhibition area show selected captures on Android Tablets and Smart Watches.  These devices would no longer function as smart devices but exsits purely as peices of Art.  
-
 
 
 ## Links to External Libraries
@@ -60,6 +52,9 @@ A Gallery exhibition of this work would involve a capture booth, a projection ar
 
 ## Images & Videos
 
+![15](project_images/four.png)
+![14](project_images/hands.png)
+![16](http://makeitdoathing.com/files/gimgs/67_fullscreen-3watches1.jpg)
 ![1](project_images/2014-03-01-18-46-49-342_upload.gif)
 ![2](project_images/2014-03-01-18-30-13-614_upload.gif)
 ![3](project_images/2014-03-01-18-46-21-678_upload.gif)
